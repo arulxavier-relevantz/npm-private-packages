@@ -1,0 +1,12 @@
+[submodule "base-dal"]
+	path = base-dal
+	url = https://github.com/frontians-web/base-dal.git
+[submodule "base-middlewares"]
+	path = base-middlewares
+	url = https://github.com/frontians-web/base-middlewares.git
+[submodule "base-service"]
+	path = base-service
+	url = https://github.com/frontians-web/base-service.git
+[submodule "entity-employee"]
+	path = entity-employee
+	url = https://github.com/frontians-web/entity-employee.git
